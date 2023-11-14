@@ -1,0 +1,152 @@
+[STEP] [2023-10-30 21:11:16] Recherche du fichier exécutable PHP CLI.
+[WARN] [2023-10-30 21:11:16] Impossible de trouver l’exécutable PHP CLI approprié, ce processus peut être instable.
+[WARN] [2023-10-30 21:11:16] Le fichier PHP CLI ne peut pas être exécuté pour une raison inconnue.
+[STEP] [2023-10-30 21:11:16] Initialisation de la sauvegarde…
+[INFO] [2023-10-30 21:11:16] Version de sauvegarde et migration :1.3.4
+[INFO] [2023-10-30 21:11:16] Site qui sera sauvegardé :http://mon-blog.local
+[INFO] [2023-10-30 21:11:16] Version PHP : 8.1.22
+[INFO] [2023-10-30 21:11:16] Version WP :6.3.2
+[INFO] [2023-10-30 21:11:16] Version MySQL :8.0.16
+[INFO] [2023-10-30 21:11:16] Longueur maximale de MySQL :16777216
+[INFO] [2023-10-30 21:11:16] Serveur : nginx/1.16.0
+[INFO] [2023-10-30 21:11:16] Temps d’exécution maximum (en secondes) : 1200
+[INFO] [2023-10-30 21:11:16] Memory limit (server): 256M
+[INFO] [2023-10-30 21:11:16] Memory limit (wp-config): 40M
+[INFO] [2023-10-30 21:11:16] Memory limit (wp-config admin): 256M
+[INFO] [2023-10-30 21:11:16] Nombre maximum de lignes par requête (ce site) : 2000
+[INFO] [2023-10-30 21:11:16] Vérifier si le répertoire de sauvegarde est inscriptible…
+[INFO] [2023-10-30 21:11:16] Initialisation du gestionnaire d’erreurs personnalisé
+[SUCCESS] [2023-10-30 21:11:16] Ouais c’est inscriptible…
+[STEP] [2023-10-30 21:11:16] Analyse des fichiers…
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\admin\dashboard\static\bundle\main.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\admin\dashboard\static\bundle\main.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\142.e0c0e2296e5a94af9d7f.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\142.e0c0e2296e5a94af9d7f.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\150.6e2fbda9e46814ea337b.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\150.6e2fbda9e46814ea337b.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\167.e9ae234cc7a7420e121c.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\167.e9ae234cc7a7420e121c.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\274.b2841b7778b85d53b946.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\274.b2841b7778b85d53b946.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\308.ac9ec8da59209dde2409.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\308.ac9ec8da59209dde2409.js.LICENSE.txt.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\308.ac9ec8da59209dde2409.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\316.e7d5b4adf00c6c10ca1b.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\316.e7d5b4adf00c6c10ca1b.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\321.0ff4e59e848991f62871.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\321.0ff4e59e848991f62871.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\36.f55c979312c5f220a470.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\36.f55c979312c5f220a470.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\421.fee7d485bef7fe06c566.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\421.fee7d485bef7fe06c566.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\466.41c76717f9171eac501f.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\466.41c76717f9171eac501f.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\559.39474f63a11d5a5cdb25.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\559.39474f63a11d5a5cdb25.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\68.79e81957554a44265801.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\68.79e81957554a44265801.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\735.e108736e35d974b2cdd4.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\735.e108736e35d974b2cdd4.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\765.6ddffc30832e56cd5087.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\765.6ddffc30832e56cd5087.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\798.941ec8ef78eb0fd13c05.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\798.941ec8ef78eb0fd13c05.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\897.991324256fa39a28a42d.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\897.991324256fa39a28a42d.js.LICENSE.txt.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\897.991324256fa39a28a42d.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\customizer-controls.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\customizer-controls.js.LICENSE.txt.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\customizer-controls.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\editor.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\editor.js.LICENSE.txt.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\editor.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\events.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\events.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\main.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\main.js.map.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\options.js.gz
+[WARN] [2023-10-30 21:11:16] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\options.js.LICENSE.txt.gz
+[WARN] [2023-10-30 21:11:17] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\options.js.map.gz
+[WARN] [2023-10-30 21:11:17] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\sync.min.js.gz
+[WARN] [2023-10-30 21:11:17] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\sync.min.js.LICENSE.txt.gz
+[WARN] [2023-10-30 21:11:17] Suppression du fichier de sauvegarde (en raison des règles d’exclusion ) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\themes\blocksy\static\bundle\sync.min.js.map.gz
+[WARN] [2023-10-30 21:11:17] Suppression du fichier de sauvegarde (en raison des règles de chemin) : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\backup-migration-config.php
+[INFO] [2023-10-30 21:11:17] Total size of excluded files: 1833619 bytes
+[VERBOSE] [2023-10-30 21:11:17] Total size of excluded files (bytes): 1833619
+[STEP] [2023-10-30 21:11:17] Vérification de l’espace libre, réservation…
+[INFO] [2023-10-30 21:11:17] Nécessite au moins 64934290 octets. [61.93 MB]
+[INFO] [2023-10-30 21:11:17] La fonction d‘espace libre sur le disque n‘est pas désactivée - l‘utiliser...
+[INFO] [2023-10-30 21:11:17] Vérification de chemin/partition : C:\Users\DELL E5580\Local Sites\mon-blog\app\public\wp-content\backup-migration-cUt2LIpCdk\backups
+[SUCCESS] [2023-10-30 21:11:17] Il y a 197,213.73 Mo gratuit. [192.59 GB]
+[SUCCESS] [2023-10-30 21:11:17] Super ! Il y a suffisamment d’espace.
+[SUCCESS] [2023-10-30 21:11:17] Confirmé, il y a suffisamment d’espace, vérifié :64934290 octets
+[INFO] [2023-10-30 21:11:17] Analyse terminée - Trouvé3077 fichiers…
+[SUCCESS] [2023-10-30 21:11:17] Sauvegarde initialisée…
+[STEP] [2023-10-30 21:11:17] Initialisation du système d’archivage…
+[SUCCESS] [2023-10-30 21:11:17] Système d’archivage initialisé…
+[STEP] [2023-10-30 21:11:17] Préparation de la carte des fichiers…
+[SUCCESS] [2023-10-30 21:11:17] Fichiers préparés.
+[INFO] [2023-10-30 21:11:17] Démarrage da la procédure de compression…
+[STEP] [2023-10-30 21:11:17] Calcul de la mémoire intelligente…
+[INFO] [2023-10-30 21:11:17] Il y a 384 Mo de mémoire utile
+[INFO] [2023-10-30 21:11:17] Limite de mémoire WordPress : 256 Mo
+[SUCCESS] [2023-10-30 21:11:17] Définir la limite de sécurité à 86 Mo
+[INFO] [2023-10-30 21:11:17] Utilisation du module PclZip pour créer la sauvegarde
+[INFO] [2023-10-30 21:11:17] Réglage hérité : utilisation de modules par défaut en fonction du serveur utilisateur/utilisatrice
+[STEP] [2023-10-30 21:11:17] Making database backup (using v3 engine, requires at least v1.2.2 to restore)
+[INFO] [2023-10-30 21:11:17] Itération de la base de données…
+[INFO] [2023-10-30 21:11:17] Memory usage after initialization: 11.57 MB
+[VERBOSE] [2023-10-30 21:11:17] Exporting database via zip.php
+[INFO] [2023-10-30 21:11:17] Scan found 12 tables (420 rows), estimated total size: 1.83 MB.
+[INFO] [2023-10-30 21:11:17] Memory usage after getting table names: 11.57 MB 
+[INFO] [2023-10-30 21:11:17] Getting table recipes...
+[INFO] [2023-10-30 21:11:17] Table recipes have been exported.
+[INFO] [2023-10-30 21:11:17] Memory usage after loading recipes: 11.58 MB 
+[INFO] [2023-10-30 21:11:17] Saving recipes...
+[INFO] [2023-10-30 21:11:17] Recipes saved.
+[INFO] [2023-10-30 21:11:17] Memory usage after recipe off-load: 11.57 MB
+[INFO] [2023-10-30 21:11:17] Exporting table data...
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_commentmeta (1/12, 0.05 MB)
+[INFO] [2023-10-30 21:11:17] Table wp_commentmeta is empty, saving only recipe.
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_comments (2/12, 0.09 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_comments finished (0.00198s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_links (3/12, 0.03 MB)
+[INFO] [2023-10-30 21:11:17] Table wp_links is empty, saving only recipe.
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_options (4/12, 1.13 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_options finished (0.02396s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_postmeta (5/12, 0.05 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_postmeta finished (0.00517s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_posts (6/12, 0.19 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_posts finished (0.00913s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_term_relationships (7/12, 0.03 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_term_relationships finished (0.00198s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_term_taxonomy (8/12, 0.05 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_term_taxonomy finished (0.00200s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_termmeta (9/12, 0.05 MB)
+[INFO] [2023-10-30 21:11:17] Table wp_termmeta is empty, saving only recipe.
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_terms (10/12, 0.05 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_terms finished (0.00218s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_usermeta (11/12, 0.05 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_usermeta finished (0.00232s)
+[STEP] [2023-10-30 21:11:17] Getting data of table: wp_users (12/12, 0.06 MB)
+[SUCCESS] [2023-10-30 21:11:17] Table export for: wp_users finished (0.00177s)
+[INFO] [2023-10-30 21:11:17] Table data exported.
+[INFO] [2023-10-30 21:11:17] Memory usage after data export: 11.56 MB
+[INFO] [2023-10-30 21:11:17] Entire process took: 0.0972 s
+[SUCCESS] [2023-10-30 21:11:17] Sauvegarde de base de données terminée
+[STEP] [2023-10-30 21:11:17] Faire une archive
+[INFO] [2023-10-30 21:11:17] Compression…
+[WARN] [2023-10-30 21:11:17] La sauvegarde s’exécutera en tant que demande unique, peut être instable...
+[STEP] [2023-10-30 21:11:17] Adding database SQL file(s) to the backup file.
+[VERBOSE] [2023-10-30 21:11:17] Database files in total found: 12
+[SUCCESS] [2023-10-30 21:11:17] Database added to the backup successfully.
+[STEP] [2023-10-30 21:11:17] Performing site files backup...
+[INFO] [2023-10-30 21:11:17] Les portions contiennent 200 fichiers.
+[INFO] [2023-10-30 21:11:18] Étape :1000/3077
+[INFO] [2023-10-30 21:11:20] Étape :2000/3077
+[INFO] [2023-10-30 21:11:22] Étape :3000/3077
+[INFO] [2023-10-30 21:11:22] Étape :3077/3077
+[SUCCESS] [2023-10-30 21:11:22] Compressé 3077 fichiers
+[INFO] [2023-10-30 21:11:22] Archivage de3077fichiers ont pris :5.78s
+[STEP] [2023-10-30 21:11:22] Finalisation de la sauvegarde
+[INFO] [2023-10-30 21:11:22] Generating manifest file and saving current live-log...
